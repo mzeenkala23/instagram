@@ -1,5 +1,5 @@
-require('dotenv').config()
 import firebase from 'firebase';
+require('dotenv').config()
 
 
 const config = {
