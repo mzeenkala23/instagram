@@ -1,3 +1,4 @@
+require('dotenv').config()
 import firebase from 'firebase';
 
 
