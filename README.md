@@ -17,4 +17,5 @@ The purpose of this project was to build a React app using a nosql backend (fire
   * The ability for users to post images. As its not an instagram clone if you can't post images 🤦‍♂️.
   * Write some tests for the React components as tests are good 🧪. 
       * Based on the above learn to write test for React components 🙂.
+  * Add a loading Icon when switching between pages.
 
